@@ -4,7 +4,7 @@ import Navbar from './component/Navbar';
 import Footer from './component/Footer';
 import About from './pages/About';
 import AddConfession from './pages/AddConfession';
-import Feed from './pages/feed'
+import Feed from './pages/Feed'
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 
 
