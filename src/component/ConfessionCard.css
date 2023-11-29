@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+
+.confessions {
+    background-color: #f7f7f7;
+    padding: 1rem 2rem 1rem 2rem;
+    width: 70%;
+    height: max-content;
+    overflow: auto;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-size: 1rem;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dateandtime {
+    color: rgb(180, 178, 178);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.titlename{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: x-large;
+}
+
+.confessions.dark-mode {
+    filter: invert(1);
+  }
+  
+  .confessions.dark-mode h3 {
+    color: #fff; /* Set the text color to white in dark mode */
+  }
+  
+  .confessions.dark-mode .dateandtime {
+    color: #ccc; /* Set the date and time text color to a light gray in dark mode */
+  }
+  
+  .confessions.dark-mode .titlename {
+    color: #fff; /* Set the title name text color to white in dark mode */
+  }
+  

@@ -1,0 +1,43 @@
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.confess {
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+
+.title{
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+
+.submitting {
+  margin: 10px 0;
+  padding: 10px 15px;
+  border: 1px solid #adb5bd;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #adb5bd;
+  cursor: pointer;
+  justify-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
