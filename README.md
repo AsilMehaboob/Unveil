@@ -1,8 +1,24 @@
-# React + Vite
+# Unveil - Anonymous Confessions Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Unveil Logo](link/to/your/logo.png)
 
-Currently, two official plugins are available:
+Unveil is an open-source platform designed for anonymous confessions, providing a secure and non-judgmental space for users to express their thoughts freely and without revealing their identity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Anonymous Confessions:** Users can submit confessions without disclosing their identity.
+- **Community Moderation:** Foster a supportive environment through community-driven content moderation.
+- **Responsive Design:** User-friendly interface accessible across various devices.
+- **Real-time Updates:** Experience confessions and reactions in real-time.
+
+## How to Use
+
+1. **Submit a Confession:**
+   - Navigate to the platform.
+   - Click on "Submit Confession."
+   - Share your thoughts anonymously.
+
+2. **Read and React:**
+   - Explore anonymous confessions from others.
+   - Express support or empathy through reaction emojis.
+
