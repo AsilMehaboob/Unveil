@@ -1,6 +1,6 @@
 # Unveil - Anonymous Confessions Platform
 
-![Unveil Logo](link/to/your/logo.png)
+![Unveil Logo](images/unveil.png)
 
 Unveil is an open-source platform designed for anonymous confessions, providing a secure and non-judgmental space for users to express their thoughts freely and without revealing their identity.
 
